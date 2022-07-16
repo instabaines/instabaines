@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###__About Me__
+### <u>About Me</u>
 - 😄 I am Ridwan Amure. I am a NLP Data Scientist at ParallelScore
 - 🔭 I’m currently working on developing Natural Langugae Processing Model and Pipeline for Healthcare
 - 🌱 I’m currently learning various technology to improve my MLOPS experience
