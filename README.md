@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with resources and tasks to imporove my machine learning skills
 - 💬 Ask me about data science, machine learning, NLP, scientific computing
 - 📫 How to reach me: @bainesnoni on Twitter, Ridwan Amure on LinkedIn
-- ⚡ Fun fact: I am a no fun 😄 
+- ⚡ Fun fact: I am no fun 😄 
 
 ### Tech Stack
 
