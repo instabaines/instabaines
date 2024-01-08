@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ### About Me
-- 😄 I am Ridwan Amure. I am a Data Science Engineer at ParallelScore
-- 🔭 I’m currently developing Natural Language Processing Models and Pipelines for Healthcare Applications.
+- 😄 I am Ridwan Amure. I am a PhD Student at UALR
+- 🔭 I’m currently working on using Mathematical Modelling, Graphs, Machine learning, and Natural Language Processing to identify deviant socio-technical behavior on social media
+- I have experience working on NLP pipelines and Computer vision applications 
 - 🌱 I’m also learning advanced ML practices 
 - 👯 I’m looking to collaborate on Data Science and Machine learning projects
-- 🤔 I’m looking for resources and tasks to imporove my machine learning and scientific computation skills
+- 🤔 I’m looking for resources and tasks to improve my machine learning and scientific computation skills
 - 💬 Ask me about data science, machine learning, NLP, scientific computing
 - 📫 How to reach me: @bainesnoni on Twitter, Ridwan Amure on LinkedIn
 - ⚡ Fun fact: I am no fun 😄 
